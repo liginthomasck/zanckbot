@@ -4,6 +4,6 @@
 
 ### A multi-function Slack Bot using Python and slack API for Slack Servers.
 
-_developers support: @ &nbsp; &nbsp; liginthomasck@pm.me &nbsp; &nbsp; ciyakhan@pm.me_
+_developers support: @ &nbsp; liginthomasck@pm.me &nbsp; &nbsp; ciyakhan@pm.me_
 
 _https://zanck.slack.com/_
